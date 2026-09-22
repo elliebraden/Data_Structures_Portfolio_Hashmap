@@ -1,4 +1,6 @@
-Clarification on started code vs code implemented by myself. 
+Grade received on assignment: 140/140 (100%)
+
+Clarification on starter code vs code implemented by myself. 
 
   hash_map_oa.py
       Code above class function titled "def __iter__(self):" was provided starter code.
@@ -18,4 +20,4 @@ Clarification on started code vs code implemented by myself.
         and thus was not required of this assignment
 
 
-Grade received on assignment: 140/140 (100%)
+
